@@ -1,0 +1,6 @@
+D:\С#\2_Tasks\2_001\2_4_weak referense\bin\Debug\2_4_weak referense.exe.config
+D:\С#\2_Tasks\2_001\2_4_weak referense\bin\Debug\2_4_weak referense.exe
+D:\С#\2_Tasks\2_001\2_4_weak referense\bin\Debug\2_4_weak referense.pdb
+D:\С#\2_Tasks\2_001\2_4_weak referense\obj\Debug\2_4_weak referense.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_001\2_4_weak referense\obj\Debug\2_4_weak referense.exe
+D:\С#\2_Tasks\2_001\2_4_weak referense\obj\Debug\2_4_weak referense.pdb

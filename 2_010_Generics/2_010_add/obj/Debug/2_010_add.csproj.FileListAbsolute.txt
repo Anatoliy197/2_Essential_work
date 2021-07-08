@@ -1,0 +1,6 @@
+D:\С#\2_Tasks\2_010_Generics\2_010_add\bin\Debug\2_010_add.exe.config
+D:\С#\2_Tasks\2_010_Generics\2_010_add\bin\Debug\2_010_add.exe
+D:\С#\2_Tasks\2_010_Generics\2_010_add\bin\Debug\2_010_add.pdb
+D:\С#\2_Tasks\2_010_Generics\2_010_add\obj\Debug\2_010_add.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_010_Generics\2_010_add\obj\Debug\2_010_add.exe
+D:\С#\2_Tasks\2_010_Generics\2_010_add\obj\Debug\2_010_add.pdb

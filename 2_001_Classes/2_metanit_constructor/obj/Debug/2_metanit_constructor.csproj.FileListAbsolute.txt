@@ -1,0 +1,6 @@
+D:\С#\2_Tasks\2_001\2_metanit_constructor\bin\Debug\2_metanit_constructor.exe.config
+D:\С#\2_Tasks\2_001\2_metanit_constructor\bin\Debug\2_metanit_constructor.exe
+D:\С#\2_Tasks\2_001\2_metanit_constructor\bin\Debug\2_metanit_constructor.pdb
+D:\С#\2_Tasks\2_001\2_metanit_constructor\obj\Debug\2_metanit_constructor.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_001\2_metanit_constructor\obj\Debug\2_metanit_constructor.exe
+D:\С#\2_Tasks\2_001\2_metanit_constructor\obj\Debug\2_metanit_constructor.pdb

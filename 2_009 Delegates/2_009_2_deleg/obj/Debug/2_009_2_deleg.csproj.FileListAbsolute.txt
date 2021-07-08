@@ -1,0 +1,6 @@
+D:\С#\2_Tasks\2_009 Delegates\2_009_2_deleg\bin\Debug\2_009_2_deleg.exe.config
+D:\С#\2_Tasks\2_009 Delegates\2_009_2_deleg\bin\Debug\2_009_2_deleg.exe
+D:\С#\2_Tasks\2_009 Delegates\2_009_2_deleg\bin\Debug\2_009_2_deleg.pdb
+D:\С#\2_Tasks\2_009 Delegates\2_009_2_deleg\obj\Debug\2_009_2_deleg.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_009 Delegates\2_009_2_deleg\obj\Debug\2_009_2_deleg.exe
+D:\С#\2_Tasks\2_009 Delegates\2_009_2_deleg\obj\Debug\2_009_2_deleg.pdb

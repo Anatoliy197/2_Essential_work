@@ -1,0 +1,6 @@
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 Structures_add\bin\Debug\2_007 Structures_add.exe.config
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 Structures_add\bin\Debug\2_007 Structures_add.exe
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 Structures_add\bin\Debug\2_007 Structures_add.pdb
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 Structures_add\obj\Debug\2_008 str_enum_add.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 Structures_add\obj\Debug\2_007 Structures_add.exe
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 Structures_add\obj\Debug\2_007 Structures_add.pdb

@@ -1,0 +1,7 @@
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_006 Static nested\2_006_4\bin\Debug\2_006_4.exe.config
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_006 Static nested\2_006_4\bin\Debug\2_006_4.exe
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_006 Static nested\2_006_4\bin\Debug\2_006_4.pdb
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_006 Static nested\2_006_4\obj\Debug\2_006_4.csprojAssemblyReference.cache
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_006 Static nested\2_006_4\obj\Debug\2_006_4.csproj.CoreCompileInputs.cache
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_006 Static nested\2_006_4\obj\Debug\2_006_4.exe
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_006 Static nested\2_006_4\obj\Debug\2_006_4.pdb

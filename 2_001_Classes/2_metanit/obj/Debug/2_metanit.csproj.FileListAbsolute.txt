@@ -1,0 +1,13 @@
+D:\ВТК\Программ\С#\2_Tasks\2_001\2_metanit\bin\Debug\2_metanit.exe.config
+D:\ВТК\Программ\С#\2_Tasks\2_001\2_metanit\bin\Debug\2_metanit.exe
+D:\ВТК\Программ\С#\2_Tasks\2_001\2_metanit\bin\Debug\2_metanit.pdb
+D:\ВТК\Программ\С#\2_Tasks\2_001\2_metanit\obj\Debug\2_metanit.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\2_Tasks\2_001\2_metanit\obj\Debug\2_metanit.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\2_Tasks\2_001\2_metanit\obj\Debug\2_metanit.exe
+D:\ВТК\Программ\С#\2_Tasks\2_001\2_metanit\obj\Debug\2_metanit.pdb
+D:\С#\2_Tasks\2_001\2_metanit\bin\Debug\2_metanit.exe.config
+D:\С#\2_Tasks\2_001\2_metanit\bin\Debug\2_metanit.exe
+D:\С#\2_Tasks\2_001\2_metanit\bin\Debug\2_metanit.pdb
+D:\С#\2_Tasks\2_001\2_metanit\obj\Debug\2_metanit.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_001\2_metanit\obj\Debug\2_metanit.exe
+D:\С#\2_Tasks\2_001\2_metanit\obj\Debug\2_metanit.pdb

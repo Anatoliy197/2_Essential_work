@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_013_add", "2_013_add\2_013_add.csproj", "{9EA3967E-0BCC-4C01-B753-304874E5711D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_013_1", "2_013_1\2_013_1.csproj", "{1491CFA6-7B7A-463C-9FF8-889885940B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_013_metanit", "2_013_metanit\2_013_metanit.csproj", "{1466A9EE-F1F9-4078-B10C-82F403E491FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA3967E-0BCC-4C01-B753-304874E5711D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA3967E-0BCC-4C01-B753-304874E5711D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA3967E-0BCC-4C01-B753-304874E5711D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA3967E-0BCC-4C01-B753-304874E5711D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1491CFA6-7B7A-463C-9FF8-889885940B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1491CFA6-7B7A-463C-9FF8-889885940B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1491CFA6-7B7A-463C-9FF8-889885940B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1491CFA6-7B7A-463C-9FF8-889885940B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1466A9EE-F1F9-4078-B10C-82F403E491FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1466A9EE-F1F9-4078-B10C-82F403E491FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1466A9EE-F1F9-4078-B10C-82F403E491FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1466A9EE-F1F9-4078-B10C-82F403E491FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7081E600-A7EA-4FBB-9574-34449E54B27B}
+	EndGlobalSection
+EndGlobal

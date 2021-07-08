@@ -1,0 +1,7 @@
+D:\ВТК\Программ\С#\2_Tasks\2_017_LINQ_dinamic_var\2_017_add\bin\Debug\2_017_add.exe.config
+D:\ВТК\Программ\С#\2_Tasks\2_017_LINQ_dinamic_var\2_017_add\bin\Debug\2_017_add.exe
+D:\ВТК\Программ\С#\2_Tasks\2_017_LINQ_dinamic_var\2_017_add\bin\Debug\2_017_add.pdb
+D:\ВТК\Программ\С#\2_Tasks\2_017_LINQ_dinamic_var\2_017_add\obj\Debug\2_017_add.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\2_Tasks\2_017_LINQ_dinamic_var\2_017_add\obj\Debug\2_017_add.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\2_Tasks\2_017_LINQ_dinamic_var\2_017_add\obj\Debug\2_017_add.exe
+D:\ВТК\Программ\С#\2_Tasks\2_017_LINQ_dinamic_var\2_017_add\obj\Debug\2_017_add.pdb

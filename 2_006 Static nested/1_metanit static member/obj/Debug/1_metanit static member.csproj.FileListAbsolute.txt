@@ -1,0 +1,7 @@
+D:\ВТК\Программ\С#\2_Tasks\2_006 Static nested\1_metanit static member\bin\Debug\1_metanit static member.exe.config
+D:\ВТК\Программ\С#\2_Tasks\2_006 Static nested\1_metanit static member\bin\Debug\1_metanit static member.exe
+D:\ВТК\Программ\С#\2_Tasks\2_006 Static nested\1_metanit static member\bin\Debug\1_metanit static member.pdb
+D:\ВТК\Программ\С#\2_Tasks\2_006 Static nested\1_metanit static member\obj\Debug\1_metanit static member.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\2_Tasks\2_006 Static nested\1_metanit static member\obj\Debug\1_metanit static member.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\2_Tasks\2_006 Static nested\1_metanit static member\obj\Debug\1_metanit static member.exe
+D:\ВТК\Программ\С#\2_Tasks\2_006 Static nested\1_metanit static member\obj\Debug\1_metanit static member.pdb

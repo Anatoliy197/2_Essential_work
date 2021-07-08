@@ -1,0 +1,6 @@
+D:\IT\С#\2_Tasks\2_010_Generics\2_010_metanit_2\bin\Debug\2_010_metanit_2.exe.config
+D:\IT\С#\2_Tasks\2_010_Generics\2_010_metanit_2\bin\Debug\2_010_metanit_2.exe
+D:\IT\С#\2_Tasks\2_010_Generics\2_010_metanit_2\bin\Debug\2_010_metanit_2.pdb
+D:\IT\С#\2_Tasks\2_010_Generics\2_010_metanit_2\obj\Debug\2_010_metanit_2.csprojAssemblyReference.cache
+D:\IT\С#\2_Tasks\2_010_Generics\2_010_metanit_2\obj\Debug\2_010_metanit_2.exe
+D:\IT\С#\2_Tasks\2_010_Generics\2_010_metanit_2\obj\Debug\2_010_metanit_2.pdb

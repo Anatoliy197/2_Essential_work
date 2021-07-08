@@ -1,0 +1,7 @@
+D:\ВТК\Программ\С#\2_Tasks\2_011_generics_consraints\2_011_add\bin\Debug\2_011_add.exe.config
+D:\ВТК\Программ\С#\2_Tasks\2_011_generics_consraints\2_011_add\bin\Debug\2_011_add.exe
+D:\ВТК\Программ\С#\2_Tasks\2_011_generics_consraints\2_011_add\bin\Debug\2_011_add.pdb
+D:\ВТК\Программ\С#\2_Tasks\2_011_generics_consraints\2_011_add\obj\Debug\2_011_add.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\2_Tasks\2_011_generics_consraints\2_011_add\obj\Debug\2_011_add.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\2_Tasks\2_011_generics_consraints\2_011_add\obj\Debug\2_011_add.exe
+D:\ВТК\Программ\С#\2_Tasks\2_011_generics_consraints\2_011_add\obj\Debug\2_011_add.pdb

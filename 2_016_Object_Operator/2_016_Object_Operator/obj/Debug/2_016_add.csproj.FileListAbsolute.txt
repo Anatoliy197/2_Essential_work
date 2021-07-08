@@ -1,0 +1,7 @@
+D:\ВТК\Программ\С#\2_Tasks\2_016_Object_Operator\2_016_Object_Operator\bin\Debug\2_016_Object_Operator.exe.config
+D:\ВТК\Программ\С#\2_Tasks\2_016_Object_Operator\2_016_Object_Operator\bin\Debug\2_016_Object_Operator.exe
+D:\ВТК\Программ\С#\2_Tasks\2_016_Object_Operator\2_016_Object_Operator\bin\Debug\2_016_Object_Operator.pdb
+D:\ВТК\Программ\С#\2_Tasks\2_016_Object_Operator\2_016_Object_Operator\obj\Debug\2_016_add.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\2_Tasks\2_016_Object_Operator\2_016_Object_Operator\obj\Debug\2_016_add.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\2_Tasks\2_016_Object_Operator\2_016_Object_Operator\obj\Debug\2_016_Object_Operator.exe
+D:\ВТК\Программ\С#\2_Tasks\2_016_Object_Operator\2_016_Object_Operator\obj\Debug\2_016_Object_Operator.pdb

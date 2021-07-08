@@ -1,0 +1,6 @@
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 str_enum_2\bin\Debug\2_007 str_enum_2.exe.config
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 str_enum_2\bin\Debug\2_007 str_enum_2.exe
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 str_enum_2\bin\Debug\2_007 str_enum_2.pdb
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 str_enum_2\obj\Debug\2_008 str_enum_2.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 str_enum_2\obj\Debug\2_007 str_enum_2.exe
+D:\С#\2_Tasks\2_008 Structures_Enum\2_007 str_enum_2\obj\Debug\2_007 str_enum_2.pdb

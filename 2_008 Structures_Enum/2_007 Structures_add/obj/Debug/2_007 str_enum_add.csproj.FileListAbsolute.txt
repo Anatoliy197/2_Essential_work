@@ -1,0 +1,7 @@
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_008 Structures_Enum\2_007 Structures_add\bin\Debug\2_007 Structures_add.exe.config
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_008 Structures_Enum\2_007 Structures_add\bin\Debug\2_007 Structures_add.exe
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_008 Structures_Enum\2_007 Structures_add\bin\Debug\2_007 Structures_add.pdb
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_008 Structures_Enum\2_007 Structures_add\obj\Debug\2_007 str_enum_add.csprojAssemblyReference.cache
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_008 Structures_Enum\2_007 Structures_add\obj\Debug\2_007 str_enum_add.csproj.CoreCompileInputs.cache
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_008 Structures_Enum\2_007 Structures_add\obj\Debug\2_007 Structures_add.exe
+\\APPSERVER\appshare\OKS\Проектирование\ОРПП\2_008 Structures_Enum\2_007 Structures_add\obj\Debug\2_007 Structures_add.pdb

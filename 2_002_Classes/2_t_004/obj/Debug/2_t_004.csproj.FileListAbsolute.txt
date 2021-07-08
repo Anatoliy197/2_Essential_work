@@ -1,0 +1,6 @@
+D:\С#\2_Tasks\2_002\2_t_004\bin\Debug\2_t_004.exe.config
+D:\С#\2_Tasks\2_002\2_t_004\bin\Debug\2_t_004.exe
+D:\С#\2_Tasks\2_002\2_t_004\bin\Debug\2_t_004.pdb
+D:\С#\2_Tasks\2_002\2_t_004\obj\Debug\2_t_004.csprojAssemblyReference.cache
+D:\С#\2_Tasks\2_002\2_t_004\obj\Debug\2_t_004.exe
+D:\С#\2_Tasks\2_002\2_t_004\obj\Debug\2_t_004.pdb

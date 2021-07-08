@@ -1,0 +1,6 @@
+\\10.16.1.136\appshare\OKS\Проектирование\ОРПП\2_009 Delegates\2_009_3A\bin\Debug\2_009_3A.exe.config
+\\10.16.1.136\appshare\OKS\Проектирование\ОРПП\2_009 Delegates\2_009_3A\bin\Debug\2_009_3A.exe
+\\10.16.1.136\appshare\OKS\Проектирование\ОРПП\2_009 Delegates\2_009_3A\bin\Debug\2_009_3A.pdb
+\\10.16.1.136\appshare\OKS\Проектирование\ОРПП\2_009 Delegates\2_009_3A\obj\Debug\2_009_3A.csprojAssemblyReference.cache
+\\10.16.1.136\appshare\OKS\Проектирование\ОРПП\2_009 Delegates\2_009_3A\obj\Debug\2_009_3A.exe
+\\10.16.1.136\appshare\OKS\Проектирование\ОРПП\2_009 Delegates\2_009_3A\obj\Debug\2_009_3A.pdb

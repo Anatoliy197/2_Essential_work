@@ -1,0 +1,7 @@
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Class\bin\Debug\Class.exe.config
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Class\bin\Debug\Class.exe
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Class\bin\Debug\Class.pdb
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Class\obj\Debug\Class.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Class\obj\Debug\Class.exe
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Class\obj\Debug\Class.pdb

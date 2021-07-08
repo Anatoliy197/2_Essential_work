@@ -1,0 +1,7 @@
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Vrn_shilovo\bin\Debug\Vrn_shilovo.exe.config
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Vrn_shilovo\bin\Debug\Vrn_shilovo.exe
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Vrn_shilovo\bin\Debug\Vrn_shilovo.pdb
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Vrn_shilovo\obj\Debug\Vrn_shilovo.csprojAssemblyReference.cache
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Vrn_shilovo\obj\Debug\Vrn_shilovo.csproj.CoreCompileInputs.cache
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Vrn_shilovo\obj\Debug\Vrn_shilovo.exe
+D:\ВТК\Программ\С#\2_Tasks\ConsoleApp2\Vrn_shilovo\obj\Debug\Vrn_shilovo.pdb

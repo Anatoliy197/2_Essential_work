@@ -1,0 +1,8 @@
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+D:\IT\С#\2_Tasks\2_018_Namespases\Task2\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
